@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="logorat">
+    <file>images/favicon-blackrat.ico</file>
+    <file>images/cancel-pressed.png</file>
+    <file>images/cancel.png</file>
+    <file>images/plus.png</file>
+    <file>images/stop.png</file>
+    <file>images/pause.png</file>
+    <file>images/play.png</file>
+    <file>images/botao-pocao.png</file>
+    <file>images/logo-blackrat.png</file>
+    <file>images/flask-login.png</file>
+  </qresource>
+</RCC>
