@@ -1,12 +1,12 @@
 class Pocoes():
-    def __init__(self, pocao1 = 0):
+    def __init__(self, pocao1 = ":/logorat/images/plus.png"):
         self.potion1 = pocao1
-        self.potion2 = 0
-        self.potion3 = 0
-        self.potion4 = 0
-        self.potion5 = 0
+        self.potion2 = ":/logorat/images/plus.png"
+        self.potion3 = ":/logorat/images/plus.png"
+        self.potion4 = ":/logorat/images/plus.png"
+        self.potion5 = ":/logorat/images/plus.png"
 
-    def setPotion(self, posicao:int,valor:int):
+    def setPotion(self, posicao:int,valor:str):
         if(posicao == 1):
             self.potion1 = valor
         elif(posicao == 2):
